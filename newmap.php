@@ -26,7 +26,7 @@ $curr = $_POST['current'];
 </head>
 <style>
 #map {
-  height: 900px;
+  height: 100%;
 }
 #directions-panel{
   background: #20205d;
@@ -53,7 +53,6 @@ html, body {
 
 <script src="jquery-1.12.4.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-<script type="text/javascript">
 <script type="text/javascript">
 
   function onPositionUpdate(position) {
