@@ -1,0 +1,10 @@
+.btn-hover:hover{
+    box-shadow: 0 3px 6px rgba(0,0,0,.2), 0 3px 6px rgba(0,0,0,.26) !important;
+}
+
+.p-r0{
+    padding-right:0px !important;
+}
+.p-l0{
+    padding-left:0px !important;
+}
